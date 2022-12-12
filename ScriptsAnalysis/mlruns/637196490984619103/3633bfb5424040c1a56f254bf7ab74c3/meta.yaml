@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ext_jmcampor/Desktop/Falabella/virtualEnvs/ProyectoAnomalyDetection/ScriptsAnalysis/mlruns/637196490984619103/3633bfb5424040c1a56f254bf7ab74c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '637196490984619103'
+lifecycle_stage: active
+run_id: 3633bfb5424040c1a56f254bf7ab74c3
+run_name: Session Initialized 9a31
+run_uuid: 3633bfb5424040c1a56f254bf7ab74c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670885133718
+status: 1
+tags: []
+user_id: ext_jmcampor
